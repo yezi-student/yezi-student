@@ -75,15 +75,7 @@ Timezone: Europe/Vienna (CEST)
 
 ---
 
-📕 **Latest Blog Posts**
+📕 **友链**
 
-<!-- DEV:START -->
-- [&quot;Elderly&quot;, a meeting app for older people](https://dev.to/yuridevat/elderly-a-meeting-app-for-older-people-4gjb)
-- [How Inspiring A Company Can Be](https://dev.to/yuridevat/how-inspiring-a-company-can-be-4lj8)
-- [Accessibility Testing Tools](https://dev.to/yuridevat/accessibility-testing-tools-4d4g)
-- [How I got my first job as a developer by making simple projects seem big](https://dev.to/yuridevat/how-i-got-my-first-job-as-a-developer-by-making-simple-projects-seem-big-48oi)
-- [Accessibility Check #2](https://dev.to/yuridevat/accessibility-check-2-195p)
-<!-- DEV:END -->
 
-... [READ MORE](https://dev.to/yuridevat)
 
